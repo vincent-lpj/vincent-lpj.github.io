@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /api/   # 禁止爬取 API 数据
-Disallow: /posts/ # 禁止爬取博客文章文件
