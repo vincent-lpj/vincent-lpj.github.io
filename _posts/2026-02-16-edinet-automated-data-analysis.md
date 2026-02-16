@@ -5,7 +5,8 @@ categories: [Research]
 tags: [EDINET, Python, Accounting, Text Analysis]
 ---
 
-> **Note:** The materials previously scattered across different pages on this site have now been reorganized and compiled into this single, structured note. This version is intended to improve clarity, consistency, and ease of reference. {: .prompt-tip }
+> **Note:** The materials previously scattered across different pages on this site have now been reorganized and compiled into this single, structured note. This version is intended to improve clarity, consistency, and ease of reference. 
+{: .prompt-tip }
 
 ---
 
