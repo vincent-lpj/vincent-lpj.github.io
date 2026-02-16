@@ -14,12 +14,12 @@ timezone: Asia/Tokyo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy - First Try # the main title
+title: Vincent's Tech Blog # the main title
 
-tagline: My Personal Blog # it will display as the subtitle
+tagline: Notes on Coding, AI and Research # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  My Personal Blog
+  A personal technical blog about programming, web development, and project notes.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
